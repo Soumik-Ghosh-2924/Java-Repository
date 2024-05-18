@@ -1,5 +1,8 @@
-# Java-Repository
+<b><i>Java-Repository</i></b> :
+<br>
 This Repository contains all the java files and codes till date.
+This repository is subject to updation as and when required.Stay tuned !!
+<br>
  <figure>
   <figcaption><b><i>JAVA</i></b></figcaption><br>
    <br>
@@ -52,6 +55,5 @@ Java's enduring popularity and widespread adoption can be attributed to its plat
   
 </figure>
 
-This repository is subject to updation as and when required.Stay tuned !!
 
 Author - Soumik Ghosh.
