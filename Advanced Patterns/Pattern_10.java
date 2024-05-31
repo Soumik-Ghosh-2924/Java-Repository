@@ -4,6 +4,8 @@ public class Pattern_10
 {
 	public static void main(String args[])
 	{
+		//This is an advanced Pattern problem : Related to the design of a Butterfly. Have a quick look :)
+		
 		Scanner sc = new Scanner(System.in);
 //		System.out.println("Enter the value of n : ");
 //		int n = sc.nextInt();
