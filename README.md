@@ -2,6 +2,8 @@
 <br>
 This Repository contains all the java files and codes till date.
 This repository is subject to updation as and when required.Stay tuned !!
+
+N B : The folder has been updated with certain other new files for different DSA Topics. Have a Look at them ! 
 <br>
  <figure>
   <figcaption><b><i>JAVA</i></b></figcaption><br>
