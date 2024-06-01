@@ -1,0 +1,3 @@
+This program is basically calculating for an hour glass type 2d matrix within a 6X6 matrix 
+such that we have to return the sum fo such a matrix whose element's sum is highest among all the sub 
+matrices within the original matix;
