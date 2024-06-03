@@ -11,7 +11,7 @@ public class fibonacci_dp
 		if(n==0 || n==1)
 			return n;
 		
-		int []a= new int[n+2];
+		int []a= new int[n+1];
 		a[0]=0;
 		a[1]=1;
 		int i;
