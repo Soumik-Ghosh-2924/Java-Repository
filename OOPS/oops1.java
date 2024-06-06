@@ -1,4 +1,3 @@
-package OOPS;
 class pen
 {
     String color;

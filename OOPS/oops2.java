@@ -1,4 +1,3 @@
-package OOPS;
 class Student
 {
     String Name;
