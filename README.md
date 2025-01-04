@@ -17,11 +17,11 @@ N B : The folder has been updated with certain other new files for different DSA
  </figure>
 
  
-Introduction to Java
+## Introduction to Java
 
 Java is a high-level, object-oriented programming language that has been a cornerstone of software development since its inception by Sun Microsystems in 1995. Now maintained by Oracle Corporation, Java has become one of the most widely-used and influential programming languages in the world, known for its portability, scalability, and robustness.
 
-Key Features and Benefits of Java
+## Key Features and Benefits of Java
 
 1. Platform Independence: One of Java's most celebrated features is its "write once, run anywhere" capability. Java code is compiled into bytecode, which can run on any system equipped with a Java Virtual Machine (JVM). This makes Java applications highly portable across different platforms without the need for recompilation.
 
@@ -46,7 +46,7 @@ Key Features and Benefits of Java
 
 
 
-Java in Practice
+## Java in Practice
 
 Java's versatility makes it suitable for a wide range of applications, from web and mobile development to scientific computing and large-scale enterprise systems. Here are a few practical applications of Java:
 
@@ -55,11 +55,11 @@ Java's versatility makes it suitable for a wide range of applications, from web 
 - Enterprise Applications: Java Enterprise Edition (Java EE) provides a robust platform for developing large-scale, distributed, and transactional enterprise applications.
 - Scientific Computing: Java's performance and extensive libraries make it a suitable choice for scientific applications that require reliable computation and data processing.
 
-Conclusion
+## Conclusion
 
 Java's enduring popularity and widespread adoption can be attributed to its platform independence, object-oriented design, robust security features, and comprehensive standard library. Whether you are a beginner or an experienced developer, Java offers a powerful and flexible environment for developing a wide variety of applications. Its continuous evolution and strong community support ensure that Java remains at the forefront of modern software development, making it an essential skill for developers in today's tech landscape.
   
 </figure>
 
 
-Author - Soumik Ghosh.
+## Author - Soumik Ghosh.
