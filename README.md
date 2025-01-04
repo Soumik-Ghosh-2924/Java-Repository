@@ -10,7 +10,7 @@ Happy New Year '25 and updates are on ....
 N B : The folder has been updated with certain other new files for different DSA Topics. Have a Look at them ! 
 <br>
  <figure>
-  <figcaption><b><i> ## JAVA</i></b></figcaption><br>
+  <figcaption><b><i>JAVA</i></b></figcaption><br>
    <br>
   <img src="images/clean-code-java-principles.jpg" height="400" width="400" >
   <br>
