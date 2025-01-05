@@ -12,7 +12,7 @@ N B : The folder has been updated with certain other new files for different DSA
  <figure>
   <figcaption><b><i>JAVA</i></b></figcaption><br>
    <br>
-  <img src="images/clean-code-java-principles.jpg" height="400" width="400" >
+  <img src="images/j1.jpeg" height="400" width="400" >
   <br>
  </figure>
 
